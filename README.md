@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jlnsmith2001
-- 👀 I’m interested in ... video game development
-- 🌱 I’m currently learning ... c# and unity
+- 👀 I’m interested in video game development,  data analysis
+- 🌱 I’m currently learning  C#, R, Tableau, SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... yaharajulien@gmail.com
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
+- 📫 How to reach me julienlsmith2001@gmail.com
+- 😄 Pronouns:  he/him
+- ⚡ Fun fact: 
 
 <!---
 jlnsmith2001/jlnsmith2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
