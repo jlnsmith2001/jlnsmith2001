@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jlnsmith2001
+- 👋 Hi, I’m Julien Smith
 - 👀 I’m interested in video game development,  data analysis
-- 🌱 I’m currently learning  C#, R, Tableau, SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  C#, R, Tableau, SQL and spreadsheets
+- 💞️ I would love to connect with experienced data analysts or game developers 
 - 📫 How to reach me julienlsmith2001@gmail.com
 - 😄 Pronouns:  he/him
 - ⚡ Fun fact: I want to learn norwegian!
